@@ -1,0 +1,13 @@
+#Arquivos temporarios do Windows
+Thumbs.db
+desktop.ini
+
+# Configurações pessoais do VS Code
+.vscode/
+
+# Logs temporários
+*.log
+*.tmp
+
+# Variaveis de ambiente (senhas, chaves)
+.env
